@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Bayesian Statistics 
+- 👯 I’m looking to collaborate on Data Science projects
+- 📫 How to reach me: sandra-starnberg@web.de
+- ⚡ Fun fact: I come from the country with Auto Bahn
+
 <!--
 **sandygross/sandygross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
